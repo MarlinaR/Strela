@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Mark
+  - GlobalStorage
+  - LevelConfig
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Arrows
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 97763605
+    locked: 0
+  - name: Items
+    uniqueID: 435410195
+    locked: 0
+  - name: SemiWalls
+    uniqueID: 2430814677
+    locked: 0
+  - name: Walls
+    uniqueID: 3244572677
+    locked: 0
+  - name: Arrows
+    uniqueID: 770946747
+    locked: 0
+  - name: Particles
+    uniqueID: 348603925
+    locked: 0

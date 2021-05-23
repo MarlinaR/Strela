@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d21a85cbc06e04a884623ba7c22389, type: 3}
+  m_Name: JungleTheme
+  m_EditorClassIdentifier: 
+  grassPrefabs:
+  - {fileID: 9197287855657320973, guid: 9050095d0263b1a48b525937bf13733b, type: 3}
+  - {fileID: 4951070182619501163, guid: 3946c208b8a093e4fbbc855bbb275b02, type: 3}
+  - {fileID: 2597497665824885567, guid: e415cd747cc156d4b9c18b248863aea3, type: 3}
+  - {fileID: 4540211738633722221, guid: 4a6ba8994c205c6408b3a84a55e25732, type: 3}
+  leftSidePanels: []
+  rightSidePanels: []
+  wallPrefabs:
+  - {fileID: 6505393545286509391, guid: 4658f90aa62f78f4496bdbbb857b00be, type: 3}
+  autoPistonPrefabs:
+  - {fileID: 473553792045541771, guid: 83b6f0e950deb2244b0b774164fd0bf4, type: 3}
+  autoPistonSections:
+  - {fileID: 5478270153625337545, guid: 4f271d0d9dc9e6a43a423e38f2cf73ee, type: 3}
+  leverPrefabs:
+  - {fileID: 7736197555632467615, guid: fc767bd01ca85e14fb94a257a55af9a1, type: 3}
+  pistonPrefabs:
+  - {fileID: 5491605193936237817, guid: b656a3b81bab1dc439f65e13e785f309, type: 3}
+  pistonSections:
+  - {fileID: 8534858714422887300, guid: 1fe4883e1cf4eca46b4fd9a336196522, type: 3}
+  target: {fileID: 8581510807396868244, guid: 1898ea5e760963f46ace57295bbe065b, type: 3}
+  playerPrefab: {fileID: 6175957031229472927, guid: 9ea6eed69baa7a14e8695599a82191fe, type: 3}
+  globalLightPrefab: {fileID: 2231844568005583001, guid: 9c22666b27047f949b4d40a2f8b71f7c, type: 3}
+  coin: {fileID: 6843296935380772983, guid: 51b7ecf848f8aec4fa1601571582acda, type: 3}
